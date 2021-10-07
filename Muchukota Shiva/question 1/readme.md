@@ -1,0 +1,1 @@
+question 1 Write a program to input a number and display all the even numbers till that number<br/>

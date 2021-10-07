@@ -1,0 +1,1 @@
+question 2 Write a program to determine whether a number is a palindrome or not.<br/>
