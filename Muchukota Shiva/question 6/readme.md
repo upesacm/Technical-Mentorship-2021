@@ -1,0 +1,1 @@
+question 6 - Write a program to print an inverted half pyramid using stars<br/>
